@@ -49,4 +49,4 @@ Portfolio: alexsanchez.tech
 
 Email: aleexsanchez@proton.me 
 
-LinkedIn: [Your LinkedIn Profile Link]
+LinkedIn: https://www.linkedin.com/in/alejandrosanchez21/
