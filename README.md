@@ -1,20 +1,52 @@
-👋 Hi, I’m @aleexsaanchez
-💡 I’m passionate about cybersecurity and computer science. I also practice volleyball
-🛠️ I (want to) specialize in cyber forensics
-🚀 I’m currently working on getting a double major in Cybersecurity & Computer Science at Reinhardt University
-📚 I’m deepening my knowledge in cyber forensics, web app applications, and cyberdefense
-🤝 I’m open to collaborating on anything, I'm always down to start a new project!
-🌍 I’m based in Atlanta, Ga
-🖥️ My portfolio: https://alexsanchez.tech/
-✉️ How to reach me: aleexsanchez@proton.me
-🎨 My hobbies include reading, playing volleyball, and listen to classical music
-🎯 My goals for this year are to become the best version of myself
-⚙️ I’m proficient with computers
-📈 I’m looking to learn more about cybersecurity
-😄 Pronouns: Him/His
-🎉 Fun fact about me: I'm originally from Palma de Mallorca, Spain. 
+👋 Hi, I’m Alex Sánchez
+🛡️ Aspiring Security Engineer | Cybersecurity & CS Double Major
+I am a Senior at Reinhardt University with a passion for architecting Defense-in-Depth and exploring the intersection of AppSec and Identity Management. While I build applications, my true focus is on securing them at the network edge.
 
-<!---
-aleexsaanchez/aleexsaanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+🚀 Featured Project: Cloudflare Edge Security Lab
+I recently built and hardened a serverless environment at alexsanchez.site to move the security perimeter to the Global Edge.
+
+Zero Trust: Implemented ZTNA (GitHub OAuth + OTP) to eliminate public origin exposure.
+
+WAF Hardening: Tuned Layer 7 rules to mitigate SQLi, XSS, and reconnaissance probes.
+
+Serverless Hardening: Used Cloudflare Workers to inject security headers (CSP, HSTS) and perform information masking.
+
+🛠️ Technical Toolkit
+
+Security & Cloud: Cloudflare Zero Trust, WAF Tuning, Serverless Logic (Workers), SentinelOne, ThreatLocker.
+
+
+
+
+Identity & Access: Microsoft Entra ID, Active Directory, Intune, Identity Lifecycle Management.
+
+
+
+
+Networking: DNSSEC, CNAME Flattening, TCP/IP, Secure Network Architecture.
+
+
+Languages: PowerShell, Python, Bash, SQL.
+
+
+🎓 Beyond the Code
+
+Leadership: President and Captain of the Reinhardt Cyber Eagles, leading SOC simulations and CTF challenges.
+
+Athletics: Captain of the Reinhardt Men's Volleyball team; AVCA All-American.
+
+
+
+
+Global Perspective: Originally from Palma de Mallorca, Spain. Bilingual in English and Spanish.
+
+
+📫 Reach Out
+Portfolio: alexsanchez.tech
+
+
+Email: aleexsanchez@proton.me 
+
+LinkedIn: [Your LinkedIn Profile Link]
