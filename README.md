@@ -5,7 +5,7 @@ I am a Senior at Reinhardt University with a passion for architecting Defense-in
 
 
 🚀 Featured Project: Cloudflare Edge Security Lab
-I recently built and hardened a serverless environment at alexsanchez.site to move the security perimeter to the Global Edge.
+I recently built and hardened a serverless environment at https://alexsanchez.site/ to move the security perimeter to the Global Edge.
 
 Zero Trust: Implemented ZTNA (GitHub OAuth + OTP) to eliminate public origin exposure.
 
